@@ -1,5 +1,4 @@
-# egna ignoranter
-venv/
+# egna ignoranter ligger t ex under Environments
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
